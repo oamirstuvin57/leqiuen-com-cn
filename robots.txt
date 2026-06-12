@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oamirstuvin57.github.io/leqiuen-com-cn/sitemap.xml
